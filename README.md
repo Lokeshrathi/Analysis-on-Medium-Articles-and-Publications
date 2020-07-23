@@ -12,6 +12,7 @@
 - Better Humans
 - Better Marketing
 ---
+![](/Images/pan1.png)
 
 ### Obsevations:
 - Highest number of Medium articles is by **THE STARTUP**

@@ -23,7 +23,7 @@
 - Highest Number of Medium articles are published in the month of **MAY**
 
 - If you are Medium Technical Blogger and your articles does not get the highest number of claps/responses, You need not worry about it.
-- On an average, the number of claps and responses received by a blogger is 0.
+- On an average, the number of claps is 311 and responses received by a blogger is 0. Seems like responses feature is not used by many of Medium.
 
 ![](/Images/pan3.png)
 

@@ -23,9 +23,12 @@
 - Highest Number of Medium articles are published in the month of **MAY**
 
 - If you are Medium Technical Blogger and your articles does not get the highest number of claps/responses, You need not worry about it.
+- On an average, the number of claps and responses received by a blogger is 0.
 
 ![](/Images/pan3.png)
 
 - List of top 10 articles for the year 2019 with the highest number of Claps.
 
 ![](/Images/pan4.png)
+
+- Do check out my work on [Kaggle](https://www.kaggle.com/lokeshrth4617) and [UPVOTE if you LIKE MY ANALYSIS](https://www.kaggle.com/lokeshrth4617/medium-articles)

@@ -3,7 +3,7 @@
 ### Data Collection
 - Data Was collected from [Kaggle](https://www.kaggle.com/dorianlazar/medium-articles-dataset)
 - This dataset contains information about randomly chosen medium articles published in 2019 from these 7 publications:
-
+---
 - Towards Data Science
 - UX Collective
 - The Startup
@@ -11,6 +11,7 @@
 - Data Driven Investor
 - Better Humans
 - Better Marketing
+---
 
 ### Obsevations:
 - Highest number of Medium articles is by **THE STARTUP**

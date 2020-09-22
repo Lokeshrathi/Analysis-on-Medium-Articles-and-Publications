@@ -3,6 +3,8 @@
 ### Data Collection
 - Data Was collected from [Kaggle](https://www.kaggle.com/dorianlazar/medium-articles-dataset)
 - This dataset contains information about randomly chosen medium articles published in 2019 from these 7 publications:
+
+### You may find the code [here](https://www.kaggle.com/lokeshrth4617/overview-of-medium-articles)
 ---
 - Towards Data Science
 - UX Collective
@@ -31,5 +33,3 @@
 - List of top 10 articles for the year 2019 with the highest number of Claps.
 
 ![](/Images/pan4.png)
-
-- Do check out my work on [Kaggle](https://www.kaggle.com/lokeshrth4617) and [UPVOTE if you LIKE MY ANALYSIS](https://www.kaggle.com/lokeshrth4617/medium-articles)
